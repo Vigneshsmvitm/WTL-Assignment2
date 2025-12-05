@@ -42,18 +42,18 @@ http://localhost/Assignment2/index.html
 
 # ☁️ Cloud Hosting Options (PHP Required)
 
-### **Option 1 — 000webhost (Free)**
-1. Create account at 000webhost.com  
-2. Create a new website  
-3. Upload all project files  
-4. Access your live site instantly
+Cloud Hosting (InfinityFree Hosting + Free Domain)
+This project is hosted using InfinityFree, a free hosting platform that supports PHP.
+Steps Followed :
+Created an account on InfinityFree.net
+Created a new free hosting account
+Uploaded all project files (index.html, style.css, script.js, submit.php) inside the htdocs directory
+The system generated a free domain:
+✔ https://vignesh-026.lovestoblog.com/
+Website is now live and fully functional with PHP processing support.
 
----
-
-### **Option 2 — InfinityFree (Free)**
-1. Create account at infinityfree.net  
-2. Upload files using File Manager  
-3. Access your published site with the assigned URL
+Live Demo Link
+🔗 https://vignesh-026.lovestoblog.com/
 
 ## 🎨 Customization Guide
 
